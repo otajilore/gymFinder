@@ -1,0 +1,5 @@
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=GymFetchPOC
+--content-root=/Users/macbook/Projects/GymFetchPOC/GymFetchPOC
+--file=

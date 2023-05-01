@@ -1,0 +1,544 @@
+﻿{
+  "amenities": [
+    {
+      "amenitytype": "Free Pass",
+      "amenityName": "Free Pass",
+      "searchTerms": [
+        "free guest pass",
+        "day pass",
+        "one day trial",
+        "guest pass",
+        "one day guest pass",
+        "free intro"
+      ]
+    },
+    {
+      "amenitytype": "Endurance",
+      "amenityName": "Cardio Equipment",
+      "searchTerms": [
+        "Cardio Machines",
+        "treadmill",
+        "ellipticals",
+        "step machines",
+        "Cardio Equipment",
+      ]
+    },
+    {
+      "amenitytype": "Endurance",
+      "amenityName": "Strength Machines",
+      "searchTerms": [
+        "Strength Machines",
+        "resistance machines",
+        "ellipticals",
+        "step machines",
+        "Cardio Equipment"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "swimming pool",
+      "searchTerms": [
+        "pool",
+        "aquatics"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "Racquet Ball",
+      "searchTerms": [
+        "Racquet Ball",
+        "RacquetBall"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "Soccer",
+      "searchTerms": [
+        "soccer"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "volleyball",
+      "searchTerms": [
+        "Volleyball"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "Squash",
+      "searchTerms": [
+        "Squash"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "Table Tennis",
+      "searchTerms": [
+        "Table Tennis",
+        "ping pong"
+      ]
+    },
+    {
+      "amenitytype": "Sports facilities",
+      "amenityName": "Rock Climbing",
+      "searchTerms": [
+        "rock climbing",
+        "rock wall"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Yoga",
+      "searchTerms": [
+        "Yoga"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Yoga Therapy",
+      "searchTerms": [
+        "Yoga Therapy"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Yoga Teacher Training",
+      "searchTerms": [
+        "Yoga Teacher Training"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Hot Yoga",
+      "searchTerms": [
+        "Hot Yoga"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Martial Arts",
+      "searchTerms": [
+        "Martial Arts"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Pilates",
+      "searchTerms": [
+        "Pilates"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Free Weights",
+      "searchTerms": [
+        "dumbbell",
+        "dumbbells",
+        "kettlebell"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Olympic weightlifting",
+      "searchTerms": [
+        "Olympic weightlifting"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Barre",
+      "searchTerms": [
+        "Barre"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Crossfit",
+      "searchTerms": [
+        "Crossfit"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Gymnastics",
+      "searchTerms": [
+        "Gymnastics"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Parkour",
+      "searchTerms": [
+        "Parkour"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Kickboxing",
+      "searchTerms": [
+        "Kickboxing"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Karate",
+      "searchTerms": [
+        "Karate"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Boxing",
+      "searchTerms": [
+        "boxing"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Wrestling",
+      "searchTerms": [
+        "wrestling"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "submission Wrestling",
+      "searchTerms": [
+        "submission Wrestling"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Striking",
+      "searchTerms": [
+        "Striking"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Cycling",
+      "searchTerms": [
+        "Cycling"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Brazilian Jiu-Jitsu",
+      "searchTerms": [
+        "Brazilian Jiu",
+        "jitsu"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Muay Thai",
+      "searchTerms": [
+        "Muay Thai"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "High Intensity Interval Training",
+      "searchTerms": [
+        "HIIT",
+        "high intensity interval",
+        "high intensity",
+        "intensity interval",
+        "intensity-interval"
+      ]
+    },   
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Dance Workouts",
+      "searchTerms": [
+        "Dance Party Workout",
+        "Dance Workours"
+      ]
+    },
+    {
+      "amenitytype": "Workouts Supported",
+      "amenityName": "Group Cycling",
+      "searchTerms": [
+        "group cycling",
+        "cycling group"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Child Friendly",
+      "searchTerms": [
+        "Kids",
+        "childcare",
+        "kids gym",
+        "kid's gym"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Daycare Facilities",
+      "searchTerms": [
+        "daycare"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Youth Programs",
+      "searchTerms": [
+        "youth"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Nutrition Training",
+      "searchTerms": [
+        "nutrition",
+        "Nutrition Coaching",
+        "Nutritional coaching"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Health Coaching",
+      "searchTerms": [
+        "health coaching"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Weightloss specialists",
+      "searchTerms": [
+        "fat burn",
+        "weight loss"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "SMART Training",
+      "searchTerms": [
+        "smart training",
+        "smarttraining"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Strength Conditioning",
+      "searchTerms": [
+        "Strength Conditioning",
+        "StrengthConditioning"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Group Training",
+      "searchTerms": [
+        "group training"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Small Group Training",
+      "searchTerms": [
+        "small group training"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Swimming lessons",
+      "searchTerms": [
+        "swim lessons",
+        "swimming lessons"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Personal Trainer",
+      "searchTerms": [
+        "Personal Trainer",
+        "personal training",
+        "Individualized Coaching",
+        "trainers"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Physical therapy",
+      "searchTerms": [
+        "Physical therapy"
+      ]
+    },
+    {
+      "amenitytype": "Training",
+      "amenityName": "Podiatry",
+      "searchTerms": [
+        "Podiatry"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Sauna",
+      "searchTerms": [
+        "Sauna"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Spa",
+      "searchTerms": [
+        "Spa"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Acupuncture",
+      "searchTerms": [
+        "Acupuncture"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Performance Testing",
+      "searchTerms": [
+        "performance testing"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Tanning",
+      "searchTerms": [
+        "Tanning"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Massage",
+      "searchTerms": [
+        "Massage"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Hydro Massage",
+      "searchTerms": [
+        "Hydro-Massage",
+        "Hydro Massage"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Steam Room",
+      "searchTerms": [
+        "steam room",
+        "steam rooms",
+        "steam"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Jacuzzis",
+      "searchTerms": [
+        "jacuzzis",
+        "jacuzzi"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "running tracks",
+      "searchTerms": [
+        "running track"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Hot Tub",
+      "searchTerms": [
+        "Hot Tub"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Wet Area",
+      "searchTerms": [
+        "wet area"
+      ]
+    },
+    {
+      "amenitytype": "Gym Facilities",
+      "amenityName": "Female-Only Workout",
+      "searchTerms": [
+        "women only",
+        "Women's Only",
+        "female only",
+        "female's only",
+        "women’s fitness",
+        "womens fitness"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Locker Rooms",
+      "searchTerms": [
+        "Locker",
+        "Lockers"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Showers",
+      "searchTerms": [
+        "showers",
+        "shower"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Free Wifi",
+      "searchTerms": [
+        "free wifi"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Free Parking",
+      "searchTerms": [
+        "parking"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Free Parking",
+      "searchTerms": [
+        "free parking"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Smoothie Bar",
+      "searchTerms": [
+        "Smoothie Bar",
+        "Smoothie"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Snack Bar",
+      "searchTerms": [
+        "Snack bar"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Wifi",
+      "searchTerms": [
+        "Wifi"
+      ]
+    },
+    {
+      "amenitytype": "Accesories",
+      "amenityName": "Lounge Areas",
+      "searchTerms": [
+        "lounge areas"
+      ]
+    }
+  ]
+}

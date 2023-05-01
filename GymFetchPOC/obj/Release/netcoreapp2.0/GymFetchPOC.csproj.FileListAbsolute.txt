@@ -1,0 +1,10 @@
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/bin/Release/netcoreapp2.0/GymFetchPOC.deps.json
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/bin/Release/netcoreapp2.0/GymFetchPOC.runtimeconfig.json
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/bin/Release/netcoreapp2.0/GymFetchPOC.runtimeconfig.dev.json
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/bin/Release/netcoreapp2.0/GymFetchPOC.dll
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/bin/Release/netcoreapp2.0/GymFetchPOC.pdb
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/obj/Release/netcoreapp2.0/GymFetchPOC.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/obj/Release/netcoreapp2.0/GymFetchPOC.AssemblyInfoInputs.cache
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/obj/Release/netcoreapp2.0/GymFetchPOC.AssemblyInfo.cs
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/obj/Release/netcoreapp2.0/GymFetchPOC.dll
+/Users/macbook/Projects/GymFetchPOC/GymFetchPOC/obj/Release/netcoreapp2.0/GymFetchPOC.pdb

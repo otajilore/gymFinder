@@ -1,0 +1,681 @@
+﻿{
+  "amenities": [
+      {
+        "Category": "Accessories",
+        "Name": "Child Friendly",
+        "searchTerms": [
+          "kid",
+          "Kids",
+          "kids gym",
+          "kid's gym"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Daycare Facilities",
+        "searchTerms": [
+          "daycare",
+          "childcare",
+          "child care"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Youth Programs",
+        "searchTerms": [
+          "youth"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Female-Only Workout",
+        "searchTerms": [
+          "women only",
+          "Women's Only",
+          "female only",
+          "female's only",
+          "women’s fitness",
+          "womens fitness"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Locker Rooms",
+        "searchTerms": [
+          "Locker",
+          "Lockers"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Showers",
+        "searchTerms": [
+          "showers",
+          "shower"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Free Wifi",
+        "searchTerms": [
+          "free wifi"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Free Parking",
+        "searchTerms": [
+          "free parking"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Smoothie Bar",
+        "searchTerms": [
+          "Smoothie Bar",
+          "Smoothie"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Snack Bar",
+        "searchTerms": [
+          "Snack bar"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Wifi",
+        "searchTerms": [
+          "Wifi"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Lounge Areas",
+        "searchTerms": [
+          "lounge areas",
+          "lounge area",
+          "lounge"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Auto Salon",
+        "searchTerms": [
+          "auto salon",
+          "car detailing",
+          "car wash"
+        ]
+      },
+      {
+        "Category": "Accessories",
+        "Name": "Equipment Rental",
+        "searchTerms": [
+          "rental",
+          "equipment rental"
+        ]
+      },
+      {
+        "Category": "Basics",
+        "Name": "Cardio Equipment",
+        "searchTerms": [
+          "Cardio Machines",
+          "treadmill",
+          "ellipticals",
+          "step machines",
+          "Cardio Equipment"
+        ]
+      },
+      {
+        "Category": "Basics",
+        "Name": "Strength Machines",
+        "searchTerms": [
+          "Strength Machines",
+          "resistance machines",
+          "weight machines",
+          "resistance machine",
+          "strength machine"
+        ]
+      },
+      {
+        "Category": "Basics",
+        "Name": "Free Weights",
+        "searchTerms": [
+          "dumbbell",
+          "dumbbells",
+          "kettlebell"
+        ]
+      },
+      {
+        "Category": "Free Pass",
+        "Name": "Free Pass",
+        "searchTerms": [
+          "free guest pass",
+          "day pass",
+          "one day trial",
+          "guest pass",
+          "one day guest pass",
+          "free intro"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Sauna",
+        "searchTerms": [
+          "Sauna"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Spa",
+        "searchTerms": [
+          "Spa"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Acupuncture",
+        "searchTerms": [
+          "Acupuncture"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Performance Testing",
+        "searchTerms": [
+          "performance test",
+          "performance testing",
+          "fitness evaluation"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Tanning",
+        "searchTerms": [
+          "Tanning"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Water Fountain",
+        "searchTerms": [
+          "Water Fountain"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Massage",
+        "searchTerms": [
+          "Massage"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Suspension Trainining",
+        "searchTerms": [
+          "suspension"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Hydro Massage",
+        "searchTerms": [
+          "Hydro-Massage",
+          "Hydro Massage"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Steam Room",
+        "searchTerms": [
+          "steam room",
+          "steam rooms",
+          "steam"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Jacuzzis",
+        "searchTerms": [
+          "jacuzzis",
+          "jacuzzi"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Running Tracks",
+        "searchTerms": [
+          "running track",
+          "running path"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Stretch Area",
+        "searchTerms": [
+          "stretch",
+          "stretch area",
+          "stretch section",
+          "stretch machines"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Hot Tub",
+        "searchTerms": [
+          "Hot Tub"
+        ]
+      },
+      {
+        "Category": "Gym Facilities",
+        "Name": "Wet Area",
+        "searchTerms": [
+          "wet area"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Swimming Pool",
+        "searchTerms": [
+          "pool",
+          "aquatics"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Racquet Ball",
+        "searchTerms": [
+          "Racquet Ball",
+          "RacquetBall"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Soccer",
+        "searchTerms": [
+          "soccer"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Volleyball",
+        "searchTerms": [
+          "Volleyball"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Squash",
+        "searchTerms": [
+          "Squash"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Table Tennis",
+        "searchTerms": [
+          "Table Tennis",
+          "ping pong"
+        ]
+      },
+      {
+        "Category": "Sports Facilities",
+        "Name": "Rock Climbing",
+        "searchTerms": [
+          "rock climbing",
+          "rock wall"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Nutrition Training",
+        "searchTerms": [
+          "nutrition",
+          "Nutrition Coaching",
+          "Nutritional coaching"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Health Coaching",
+        "searchTerms": [
+          "health coaching"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Weightloss specialists",
+        "searchTerms": [
+          "fat burn",
+          "weight loss"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "SMART Training",
+        "searchTerms": [
+          "smart training",
+          "smarttraining"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Strength Conditioning",
+        "searchTerms": [
+          "Strength Conditioning",
+          "StrengthConditioning"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Yoga Teacher Training",
+        "searchTerms": [
+          "Yoga Teacher Training"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Group Training",
+        "searchTerms": [
+          "group training"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Small Group Training",
+        "searchTerms": [
+          "small group training"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Swimming lessons",
+        "searchTerms": [
+          "swim lessons",
+          "swimming lessons"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Personal Trainer",
+        "amenityName": "Personal Trainer",
+        "searchTerms": [
+          "Personal Trainer",
+          "personal training",
+          "Individualized Coaching",
+          "trainers",
+          "coach",
+          "coaches"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Physical therapy",
+        "searchTerms": [
+          "Physical therapy",
+          "therapy"
+        ]
+      },
+      {
+        "Category": "Training",
+        "Name": "Podiatry",
+        "searchTerms": [
+          "Podiatry"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Yoga",
+        "searchTerms": [
+          "yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Vinyasa Yoga",
+        "searchTerms": [
+          "Vinyasa Yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Aerial Yoga?",
+        "searchTerms": [
+          "Aerial Yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Power Yoga",
+        "searchTerms": [
+          "Power Yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Restorative Yoga",
+        "searchTerms": [
+          "Restorative Yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Hot Yoga",
+        "searchTerms": [
+          "Hot Yoga"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Boot Camp",
+        "searchTerms": [
+          "boot camp",
+          "cross training"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Pilates",
+        "searchTerms": [
+          "Pilates"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Barre",
+        "searchTerms": [
+          "Barre"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Crossfit",
+        "searchTerms": [
+          "Crossfit",
+          "Cross fit"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Martial Arts",
+        "searchTerms": [
+          "Martial Arts",
+          "martial art"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Gymnastics",
+        "searchTerms": [
+          "Gymnastics"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Parkour",
+        "searchTerms": [
+          "Parkour"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Kickboxing",
+        "searchTerms": [
+          "Kickboxing"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Karate",
+        "searchTerms": [
+          "Karate"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Boxing",
+        "searchTerms": [
+          "boxing"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Wrestling",
+        "searchTerms": [
+          "wrestling"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Submission Wrestling",
+        "searchTerms": [
+          "submission Wrestling"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Striking",
+        "searchTerms": [
+          "Striking"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Cycling",
+        "searchTerms": [
+          "Cycling"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Brazilian Jiu-Jitsu",
+        "searchTerms": [
+          "Brazilian Jiu",
+          "jitsu"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Muay Thai",
+        "searchTerms": [
+          "Muay Thai"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "High Intensity Interval Training(HIIT)",
+        "searchTerms": [
+          "HIIT",
+          "high intensity interval",
+          "high intensity",
+          "intensity interval",
+          "intensity-interval"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Dance Workouts",
+        "searchTerms": [
+          "Dance Party Workout",
+          "Dance Workours",
+          "dance"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Group Cycling",
+        "searchTerms": [
+          "group cycling",
+          "cycling group"
+        ]
+      },
+      {
+        "Category": "Workouts Supported",
+        "Name": "Group Dance",
+        "searchTerms": [
+          "group dance",
+          "dance group",
+          "dance in group"
+        ]
+      },
+    {
+      "Category": "Workouts Supported",
+      "Name": "Pregnancy Workouts",
+      "searchTerms": [
+        "pregnant",
+        "pregnancy"
+      ]
+    },
+    {
+      "Category": "Sports Facilities",
+      "Name": "Tennis",
+      "searchTerms": [
+        "Tennis"
+      ]
+    },
+    {
+      "Category": "Sports Facilities",
+      "Name": "Curling",
+      "searchTerms": [
+        "Curling"
+      ]
+    },
+    {
+      "Category": "Sports Facilities",
+      "Name": "Golf",
+      "searchTerms": [
+        "Golf"
+      ]
+    },
+    {
+      "Category": "Sports Facilities",
+      "Name": "Badminton",
+      "searchTerms": [
+        "Badminton"
+      ]
+    },
+    {
+      "Category": "Workouts supported",
+      "Name": "Pole Dancing",
+      "searchTerms": [
+        "Pole dancing",
+        "pole dance"
+      ]
+    },
+    {
+      "Category": "Accessories",
+      "Name": "Parking",
+      "searchTerms": [
+        "Parking"
+      ]
+    },
+    {
+      "Category": "Workouts Supported",
+      "Name": "Bouldering",
+      "searchTerms": [
+        "Boulder"
+      ]
+    }
+    ]
+}
